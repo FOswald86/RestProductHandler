@@ -6,5 +6,5 @@ Spring boot application to handle products over JPA/Hibernate/MySQL
 https://www.youtube.com/watch?v=IucFDX3RO9U&t=8s  
 
 create schema warehouse and table product  
-take care of the correct application.properties for MySQL connection
+take care of the correct application.properties for MySQL connection  
 take my postman collection and you are good to go  
